@@ -1,5 +1,7 @@
-## Hi there 👋
+# Hello! 👋
 
+Welcome! I'm currently setting up this space. Thanks for your patience 
+— see you here soon!
 <!--
 **asuna48/asuna48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
