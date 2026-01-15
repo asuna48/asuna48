@@ -2,6 +2,11 @@
 
 I'm **Asuna48** (Emrullah), a 25-year/old backend game developer with interest in mobile apps and web APIs.
 
+## 📫 Connect
+
+[![Discord](https://img.shields.io/badge/Discord-asuna2015-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/asuna2015)
+[![Discord Presence](https://lanyard.cnrad.dev/api/607180529544200212)](https://discord.com/users/607180529544200212)
+
 ### 💻 Languages
 ```
 C# • Java • SQL • ActionScript 3
@@ -33,8 +38,4 @@ HTML • CSS • React/Next.js
 |---------|-------------|------|
 | [AutoReacto](https://github.com/asuna48/C-Sharp-AutoReacto) | Discord bot with WPF Dashboard for auto-reactions | C#, .NET 8, WPF, Discord.Net |
 | [DDT Site](https://github.com/asuna48/ddt-site-v02) | Game community website | ASP.NET Core, Razor Pages |
-
-## 📫 Connect
-
-[![Discord](https://img.shields.io/badge/Discord-asuna2015-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/asuna2015)
 
